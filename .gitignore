@@ -24,3 +24,4 @@ yarn-error.log*
 
 # firebase config file, contains keys
 /src/firebase/firebase.utils.js
+/src/components/stripe-button/stripe-publishable-key.js
